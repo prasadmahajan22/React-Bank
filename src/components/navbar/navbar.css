@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgb(25,118,210);
+    padding: 1rem;
+}
+
+.navbar h1 {
+    font-size: 1.8rem;
+    color: white;
+    padding-left: 2rem;
+}
